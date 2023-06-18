@@ -48,7 +48,7 @@ class _QuestionsScreenState extends State<QuestionsScreen> {
                   fontWeight: FontWeight.bold,
                 ),
                 currentQuestion.questionText,
-                textAlign: TextAlign.center,
+
             ),
             SizedBox(
               height: 30,
